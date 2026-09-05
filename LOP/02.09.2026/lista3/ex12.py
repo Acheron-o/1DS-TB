@@ -1,0 +1,1 @@
+#Converta graus para radiano s e calcule seno, cosseno e tangente.
