@@ -43,3 +43,4 @@ for percentual in percentuais_despesas:
 for percentual in percentuais_receitas:
     print(f"O percentual da receita numero {contador_percent_receitas}: {percentual}%")
     contador_percent_receitas += 1
+print("==========================================================")
